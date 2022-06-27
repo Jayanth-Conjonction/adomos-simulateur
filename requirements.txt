@@ -2,3 +2,4 @@ numpy_financial===1.0.0
 numpy==1.19.2
 OpenFisca-Core==35.8.3
 OpenFisca-France==116.10.0
+pandas==1.4.2
