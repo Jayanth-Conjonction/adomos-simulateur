@@ -1,3 +1,2 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter nbextension enable --py --sys-prefix bqplot
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
