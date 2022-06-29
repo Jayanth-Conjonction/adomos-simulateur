@@ -10,3 +10,5 @@ ipympl
 ipyvolume
 scipy
 voila
+httpx
+trio
